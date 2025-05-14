@@ -15,36 +15,28 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-
-<img 
+/><img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
- />
-
-<img 
+ /><img 
     align="left" 
     alt="KOTLIN"
     title="KOTLIN" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-
-<img 
+/><img 
     align="left" 
     alt="JAVASCRIPT"
     title="JAVASCRIPT" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
- 
- <img    
+/><img    
     align="left" 
     alt="CSS"
     title="CSS" 
@@ -73,6 +65,5 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorchx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 
 </p>
