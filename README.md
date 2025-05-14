@@ -13,11 +13,10 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
     />
-          
 <br/>
 <br/>
 
@@ -40,4 +39,3 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
   />
 
 </p>
-
