@@ -73,5 +73,4 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorchx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
