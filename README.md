@@ -7,7 +7,6 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
 
 ---
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -64,7 +63,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vitorchx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -72,7 +71,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorchx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
