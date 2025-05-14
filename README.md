@@ -60,7 +60,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
 ### 📊 Estatísticas
 
 <p>
-<img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -68,7 +68,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     src="https://github-readme-stats.vercel.app/api?username=Vitorchx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
