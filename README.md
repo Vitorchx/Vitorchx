@@ -52,7 +52,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-                          
+
 <br/>
 <br/>
 
@@ -68,7 +68,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
   />
   
   <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorchx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
