@@ -3,8 +3,10 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Vitor Rosa Coelho, tenho 26 anos e sou natural do Espirito. 
-Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, estou constantemente atualizando e aprimorando minhas habilidades em Tecnologia da Informação, através de bootcamps na Digital Innovation One e cursos em Udemy e AlgaWorks. Sou um profissional focado e dedicado, com uma forte capacidade para trabalhar em equipe e interagir com pessoas. Busco oportunidades para utilizar minhas habilidades em um ambiente dinâmico e inovador.
+Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, estou constantemente atualizando e aprimorando minhas habilidades em Tecnologia da Informação, através de bootcamps na Digital Innovation One e cursos em Udemy e AlgaWorks. 
+Sou um profissional focado e dedicado, com uma forte capacidade para trabalhar em equipe e interagir com pessoas. Busco oportunidades para utilizar minhas habilidades em um ambiente dinâmico e inovador.
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
