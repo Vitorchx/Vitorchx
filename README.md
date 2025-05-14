@@ -17,10 +17,46 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
     />
-    
-<br/>
-<br/>
 
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+
+<img 
+    align="left" 
+    alt="KOTLIN"
+    title="KOTLIN" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+ <img    
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+                           
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -32,8 +68,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vitorchx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
+  
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
