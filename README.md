@@ -16,6 +16,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="HTML"
@@ -24,6 +25,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="KOTLIN"
@@ -32,6 +34,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JAVASCRIPT"
@@ -40,6 +43,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img    
     align="left" 
     alt="CSS"
