@@ -66,6 +66,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vitorchx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  
   <img 
       align="left" 
       alt="GitHub Stats" 
@@ -73,5 +74,5 @@ Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorchx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  
+
 </p>
