@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Como estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio, estou constantemente atualizando e aprimorando minhas habilidades em Tecnologia da Informação, através de bootcamps na Digital Innovation One e cursos em Udemy e AlgaWorks.
+Formado em Análise e Desenvolvimento de Sistemas, estou constantemente atualizando e aprimorando minhas habilidades em Tecnologia da Informação por meio de bootcamps na Digital Innovation One e cursos na Udemy e AlgaWorks.
 
 ---
 
