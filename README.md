@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Coelho
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Formado em Análise e Desenvolvimento de Sistemas`**
 
 Formado em Análise e Desenvolvimento de Sistemas, estou constantemente atualizando e aprimorando minhas habilidades em Tecnologia da Informação por meio de bootcamps na Digital Innovation One e cursos na Udemy e AlgaWorks.
 
